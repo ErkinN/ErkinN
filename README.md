@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NodeJs microservices**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **NestJS**
 
 - 💬 Ask me about **MERN stack**
 
