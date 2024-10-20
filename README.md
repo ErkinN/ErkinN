@@ -1,4 +1,4 @@
-![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/786864/0508-HiringGuides-NodeJS_Dan_Social-cb33f70c56b0eb4df466056462ea3932.png)
+"![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/786864/0508-HiringGuides-NodeJS_Dan_Social-cb33f70c56b0eb4df466056462ea3932.png)
 <h1 align="center">Hi 👋, I'm Erkin Abdullaev</h1>
 <h3 align="center">A passionate NodeJs developer from Uzbekistan</h3>
 <img align='right' alt='coding' widht='400' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hiowtj2h0x5zgojxm8opdq9o6oe88idzk9ox004o&rid=giphy.gif&ct=g"/>
@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkinn&show_icons=true&locale=en&layout=compact" alt="erkinn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erkinn&" alt="erkinn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erkinn&" alt="erkinn" /></p>"
